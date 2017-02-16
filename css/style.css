@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,div,ol,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd,a,input{margin:0;padding:0;font-family:arial,"微软雅黑"，"宋体";}
+ul,ol{list-style:none;}
+a{text-decoration:none;}
+i{font-style:normal;}
+img{border:none;}
+a:hover{color:#c81623;}
+input{border:none;}
+.clear:after{content:"";display:block;font-size:0px;height:0px;clear:both;}
+.inner{*zoom:1;}
+
+
